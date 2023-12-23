@@ -48,6 +48,8 @@ Develop a program that demonstrates the use of dynamic proxy objects for profili
 
 ## Some results
 
+![image](https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/223c5b12-982c-4742-9898-0792a2198d38)
+
 # Лабораторна робота 2: Відображення в Java
 
 Ця лабораторна робота присвячена вивченню можливостей, що надаються Java Reflection API для аналізу структури класів, станів та поведінки об'єктів, а також створенню різних типів об'єктів та управлінню ними.
@@ -97,3 +99,5 @@ Develop a program that demonstrates the use of dynamic proxy objects for profili
 Розробити програму, яка демонструє використання динамічних проксі-об'єктів для профілювання та трасування методу, виводячи на екран час виконання методу, його ім'я, параметри та обчислене значення.
 
 ## Деякі результати
+
+![image](https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/223c5b12-982c-4742-9898-0792a2198d38)
