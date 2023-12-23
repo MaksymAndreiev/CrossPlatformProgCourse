@@ -15,7 +15,7 @@ The main tasks of this work include:
 - Implementing a class for solving transcendental equations and differentiating functions numerically.
 - Adding a method to the class for testing the functionality of the implemented methods and performing the first stage of numerically solving transcendental equations.
 
-## Results
+## Some results
 
 <table>
   <tr>
@@ -48,7 +48,7 @@ The main tasks of this work include:
 - Реалізація класу для розв'язування трансцендентних рівнянь та чисельного диференціювання функцій.
 - Додавання до класу методу для перевірки працездатності реалізованих методів та виконання першого етапу чисельного розв'язування трансцендентних рівнянь.
 
-## Результати
+## Деякі результати
 
 <table>
   <tr>
