@@ -17,6 +17,20 @@ The main tasks of this work include:
 
 ## Results
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/10cecff4-3eeb-42a6-9ee9-a56d2ce1326e" alt="Image 1" width="200" height="200">
+    </td>
+    <td align="center">
+      <img src="https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/43024da9-3766-4957-b645-22bf8180d660" alt="Image 2" width="200" height="200">
+    </td>
+    <td align="center">
+      <img src="https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/b46a1519-b43d-41e7-bed0-b70443c2097a" alt="Image 3" width="200" height="200">
+    </td>
+  </tr>
+</table>
+
 # Розрахунково-графічна робота 1: Основи об'єктно-орієнтованого програмування та чисельні методи
 
 Ця лабораторна робота присвячена реалізації програми на Java для моделювання поняття функції та різних способів її визначення. Програма також включає чисельне диференціювання та розв'язування трансцендентних рівнянь.
@@ -35,3 +49,17 @@ The main tasks of this work include:
 - Додавання до класу методу для перевірки працездатності реалізованих методів та виконання першого етапу чисельного розв'язування трансцендентних рівнянь.
 
 ## Результати
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/10cecff4-3eeb-42a6-9ee9-a56d2ce1326e" alt="Image 1" width="200" height="200">
+    </td>
+    <td align="center">
+      <img src="https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/43024da9-3766-4957-b645-22bf8180d660" alt="Image 2" width="200" height="200">
+    </td>
+    <td align="center">
+      <img src="https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/b46a1519-b43d-41e7-bed0-b70443c2097a" alt="Image 3" width="200" height="200">
+    </td>
+  </tr>
+</table>
