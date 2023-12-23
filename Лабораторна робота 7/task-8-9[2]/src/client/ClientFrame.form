@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="client.ClientFrame">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="600" height="400"/>
+    </constraints>
+    <properties>
+      <minimumSize width="600" height="400"/>
+      <preferredSize width="600" height="400"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="44947" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints border-constraint="North"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="4be2f" class="javax.swing.JLabel" binding="label">
+            <constraints/>
+            <properties>
+              <text value="IP Address:"/>
+            </properties>
+          </component>
+          <component id="71e52" class="javax.swing.JTextField" binding="textField1">
+            <constraints/>
+            <properties>
+              <columns value="7"/>
+            </properties>
+          </component>
+          <component id="73b99" class="javax.swing.JLabel">
+            <constraints/>
+            <properties>
+              <text value="Port: "/>
+            </properties>
+          </component>
+          <component id="f891a" class="javax.swing.JTextField" binding="textField2">
+            <constraints/>
+            <properties>
+              <columns value="7"/>
+            </properties>
+          </component>
+          <component id="aa0ca" class="javax.swing.JLabel">
+            <constraints/>
+            <properties>
+              <text value="N:"/>
+            </properties>
+          </component>
+          <component id="e8ff4" class="javax.swing.JTextField" binding="textField3">
+            <constraints/>
+            <properties>
+              <columns value="5"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <grid id="cda78" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints border-constraint="South"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="e9628" class="javax.swing.JButton" binding="calc">
+            <constraints/>
+            <properties>
+              <text value="Calculate"/>
+            </properties>
+          </component>
+          <component id="86805" class="javax.swing.JButton" binding="clear">
+            <constraints/>
+            <properties>
+              <text value="Clear Result"/>
+            </properties>
+          </component>
+          <component id="4620a" class="javax.swing.JButton" binding="exit">
+            <constraints/>
+            <properties>
+              <text value="Exit Program"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <component id="f5106" class="javax.swing.JTextArea" binding="textArea">
+        <constraints border-constraint="Center"/>
+        <properties/>
+      </component>
+    </children>
+  </grid>
+</form>

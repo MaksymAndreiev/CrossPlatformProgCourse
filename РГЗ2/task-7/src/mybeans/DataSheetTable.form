@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="mybeans.DataSheetTable">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-1"/>
+      <foreground color="-16777216"/>
+      <minimumSize width="300" height="200"/>
+      <preferredSize width="300" height="200"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="b3404" binding="panelButtons" layout-manager="FlowLayout" hgap="25" vgap="5" flow-align="1">
+        <constraints border-constraint="South"/>
+        <properties>
+          <background color="-1"/>
+          <foreground color="-16777216"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="b0efe" class="javax.swing.JButton" binding="addButton">
+            <constraints/>
+            <properties>
+              <background color="-12792538"/>
+              <foreground color="-1"/>
+              <text value="Add(+)"/>
+            </properties>
+          </component>
+          <component id="dab76" class="javax.swing.JButton" binding="delButton">
+            <constraints/>
+            <properties>
+              <background color="-4509650"/>
+              <foreground color="-1"/>
+              <text value="Del(-)"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+      <scrollpane id="3bc7d">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <background color="-1"/>
+          <foreground color="-16777216"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="88ff9" class="javax.swing.JTable" binding="table" custom-create="true">
+            <constraints/>
+            <properties>
+              <background color="-1"/>
+              <foreground color="-16777216"/>
+              <gridColor color="-12828863"/>
+              <selectionForeground color="-1"/>
+            </properties>
+          </component>
+        </children>
+      </scrollpane>
+    </children>
+  </grid>
+</form>

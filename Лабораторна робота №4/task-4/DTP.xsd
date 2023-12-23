@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<xs:schema  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="dtpCardList">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="region" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="tab" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="district"/>
+                    <xs:element type="xs:string" name="COORD_L"/>
+                    <xs:element type="xs:string" name="COORD_W"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:string" name="regName"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
