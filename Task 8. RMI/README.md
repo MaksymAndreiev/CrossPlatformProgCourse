@@ -22,6 +22,9 @@ JavaBeans components.
 
 ## Some results
 
+![image](https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/e815adc9-1ce6-4a85-a0c4-b70523a864d5)
+![image](https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/b6c193b0-4af9-4f6f-bd9c-c9d244614bff)
+
 # Лабораторна робота 8: Віддалений виклик методів (RMI)
 
 ## Основні завдання
@@ -45,3 +48,6 @@ JavaBeans components.
 JavaBeans-компоненти.
 
 ## Деякі результати
+
+![image](https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/e815adc9-1ce6-4a85-a0c4-b70523a864d5)
+![image](https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/b6c193b0-4af9-4f6f-bd9c-c9d244614bff)
