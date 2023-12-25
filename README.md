@@ -5,7 +5,7 @@
 </div>
 
 # Cross Platform Programming
-Workshop on the course "Cross Platform Programming"at V. N. Karazin Kharkiv National University, which I took in the 2nd year in 2021 at the Faculty of Computer Science. The purpose of the discipline is to teach students both the fundamental  principles of 
+Workshop on the course "Cross Platform Programming" at V. N. Karazin Kharkiv National University, which I took in the 2nd year in 2021 at the Faculty of Computer Science. The purpose of the discipline is to teach students both the fundamental  principles of 
 component and distributed organization of programs, and techniques of practical  of creating component-based distributed software products in the widely used  cross-platform programming language Java.
 
 During the semester, the student must complete 8 laboratory works on the following topics:
