@@ -25,8 +25,6 @@
 - Familiarize with XML file documentation and additional literature.
 - Use the provided resources for working with XML documents in Java.
 
-## Some results
-
 # Лабораторна робота 4: Java та XML
 
 ## Основні завдання
@@ -53,5 +51,3 @@
 
 - Ознайомитися з документацією до XML-файлів та додатковою літературою.
 - Використовувати надані ресурси для роботи з XML документами в Java.
-
-## Деякі результати
