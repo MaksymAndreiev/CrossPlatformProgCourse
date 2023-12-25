@@ -19,6 +19,8 @@ finalizing the components, creating additional classes, and packaging the applic
 
 ## Some results
 
+![image](https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/19b0290b-93f7-4463-9de3-fc198cd2cb00)
+
 # Розрахунково-графічна робота 2: Java Beans
 
 ## Основні завдання
@@ -39,3 +41,5 @@ finalizing the components, creating additional classes, and packaging the applic
 доопрацюванню компонентів, створенню додаткових класів та пакуванню програми.
 
 ## Деякі результати
+
+![image](https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/19b0290b-93f7-4463-9de3-fc198cd2cb00)
