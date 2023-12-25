@@ -19,6 +19,8 @@
 
 ## Some results
 
+![image](https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/2cbfe9b5-d40a-4b5f-94a9-fadd5d8d58a1)
+
 # Лабораторна робота 6: Програмування на Java Net (TCP-сокети)
 
 ## Основні завдання
@@ -39,3 +41,5 @@
 - Реалізувати передачу необхідних класів через сокети для серверної та клієнтської функціональності.
 
 ## Деякі результати
+
+![image](https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/2cbfe9b5-d40a-4b5f-94a9-fadd5d8d58a1)
