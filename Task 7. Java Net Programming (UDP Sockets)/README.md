@@ -21,6 +21,8 @@ all conference participants.
 
 ## Some results
 
+![image](https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/7797ca76-d6b2-41ce-b2fd-c6c24d5d3188)
+
 # Лабораторна робота 7: Програмування Java Net (UDP-сокети)
 
 ## Основні завдання
@@ -43,3 +45,5 @@ all conference participants.
 від усіх учасників конференції.
 
 ## Деякі результати
+
+![image](https://github.com/MaksymAndreiev/CrossPlatformProgramming/assets/29687267/7797ca76-d6b2-41ce-b2fd-c6c24d5d3188)
