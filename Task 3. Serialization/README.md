@@ -32,8 +32,6 @@ deserialization should also be performed.
 - Develop classes representing academic subjects, study plans, teachers, students, etc.
 - Implement serialization to save the system's state to a file and restore the system from this file.
 
-## Some results
-
 # Лабораторна робота 3: Серіалізація
 
 У цій лабораторній роботі ми розглянемо можливості, які надає Java API для організації серіалізації та
@@ -67,5 +65,3 @@ deserialization should also be performed.
 - Створіть програму для моделювання навчального процесу у вищому навчальному закладі.
 - Розробити класи, що представляють навчальні предмети, навчальні плани, викладачів, студентів тощо.
 - Реалізувати серіалізацію для збереження стану системи у файл та відновлення системи з цього файлу.
-
-## Деякі результати
