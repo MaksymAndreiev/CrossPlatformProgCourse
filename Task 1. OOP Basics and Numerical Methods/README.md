@@ -2,7 +2,7 @@
 
 This laboratory work focuses on implementing a Java program for simulating the concept of a function and different ways of defining it. The program also includes numerical differentiation and solving transcendental equations.
 
-## Task Overview
+## Main Tasks
 The main tasks of this work include:
 
 - Creating classes to represent functions defined analytically, in tabular form, and verbally (optional).
